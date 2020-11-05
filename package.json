@@ -1,7 +1,8 @@
 {
-  "name": "template",
+  "name": "{{name}}",
+  "author":"{{author}}",
   "version": "1.0.0",
-  "description": "test template",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/manlytutu/template.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/manlytutu/template/issues"
